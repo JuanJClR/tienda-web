@@ -42,7 +42,7 @@ body, ul, li, p, a, label, input, div {
   #templatemo_main_nav a { color: #212934;}
   #templatemo_main_nav a:hover { color: #69bb7e;}
   #templatemo_main_nav .navbar .nav-icon { margin-right: 20px;}
-  
+
   /* Hero Carousel */
   #template-mo-jassa-hero-carousel { background: #efefef !important;}
   /* Accordion */
@@ -135,16 +135,16 @@ body, ul, li, p, a, label, input, div {
     width: 6px;
     height: 6px;
   }
-  
+
   @media (min-width: 576px) {
     .tempaltemo-carousel .h1 { font-size: 1em !important;}
   }
-  
+
   /*// Medium devices (tablets, 768px and up)*/
   @media (min-width: 768px) {
     #templatemo_main_nav .navbar-nav {max-width: 450px;}
    }
-  
+
   /* Large devices (desktops, 992px and up)*/
   @media (min-width: 992px) {
     #templatemo_main_nav .navbar-nav {max-width: 550px;}
@@ -155,6 +155,6 @@ body, ul, li, p, a, label, input, div {
       height: 12px;
     }
   }
-  
+
   /* Extra large devices (large desktops, 1200px and up)*/
   @media (min-width: 1200px) {}
